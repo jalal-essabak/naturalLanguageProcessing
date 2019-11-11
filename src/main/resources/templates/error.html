@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/header.html :: header"></head>
+<body>
+	<div id="app">
+		<nav th:replace="fragments/navbar.html :: navbar"></nav>
+		<section class="py-5">
+			<div class="container col-8">
+				<div class="row">
+					<div class="col align-self-center">
+						<center>
+							<h1 class="font-weight-light">Erreur</h1>
+							<p th:text="${status} +' '+ ${error}" />
+						</center>
+					</div>
+				</div>
+			</div>
+	</div>
+	</section>
+</body>
+</html>
+

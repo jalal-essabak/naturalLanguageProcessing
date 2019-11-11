@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<text>
+    <entity salience="0.2175845503807068" type="WORK_OF_ART">texte</entity>
+    <entity salience="0.19050854444503784" type="OTHER">informations</entity>
+    <entity salience="0.17057661712169647" type="OTHER">jetons</entity>
+    <entity salience="0.12854242324829102" type="OTHER">mots</entity>
+    <entity salience="0.11948477476835251" type="WORK_OF_ART">série</entity>
+    <entity salience="0.0820881575345993" type="OTHER">phrases</entity>
+    <entity salience="0.0" type="NUMBER">une</entity>
+</text>

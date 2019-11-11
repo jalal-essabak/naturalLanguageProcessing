@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/header.html :: header"></head>
+<body>
+  <div id="app">
+    <nav th:replace="fragments/navbar.html :: navbar"></nav>
+    <section class="py-5">
+      <div class="container col-8">
+        <div class="row">
+          <div class="col align-self-center">
+
+            <h2 class="font-weight-light">L'analyse des entités</h2>
+            <p>Inspecte le texte donné pour y rechercher des entités connues (des noms propres tels que des personnages publics, des points de repère, des adresses, etc.). </p>
+
+         <form  th:insert="fragments/form.html :: form" action="entityResult" method="post" enctype="multipart/form-data"></form>
+         </div>
+       </div>
+     </div>
+   </div>
+ </section>    
+</body>
+</html>
+

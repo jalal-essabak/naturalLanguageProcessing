@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/header.html :: header"></head>
+<body>
+  <div id="app">
+    <nav th:replace="fragments/navbar.html :: navbar"></nav>
+    <section class="py-5">
+      <div class="container col-8">
+        <div class="row">
+          <div class="col align-self-center">
+
+            <h2 class="font-weight-light">La traduction</h2>
+            <p>Traduisez des textes français en anglais.</p>
+
+         <form  th:insert="fragments/form.html :: form" action="translateResult" method="post" enctype="multipart/form-data"></form>
+         </div>
+       </div>
+     </div>
+   </div>
+ </section>    
+</body>
+</html>
+

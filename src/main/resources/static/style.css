@@ -1,0 +1,29 @@
+.nav-link{
+	font-size: 17px;
+	font-weight:bold;
+	
+}
+.navbar-brand{
+	font-size: 23px;
+	font-weight:bold;
+}
+tr{
+	background-color: white;
+}
+
+p{
+	font-size:17px;
+	
+}
+#download-btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  cursor: pointer;
+  width:250;
+}
+
+#download-btn:hover {
+  background-color: RoyalBlue;
+}

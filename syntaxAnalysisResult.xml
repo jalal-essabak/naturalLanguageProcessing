@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<text>
+    <paragraph id="1">
+        <sentence id="1">
+            <token gender="-" id="1" lemma="Paris" number="SINGULAR" pos="NOUN" tense="-">Paris</token>
+            <token gender="-" id="2" lemma="être" number="SINGULAR" pos="VERB" tense="PRESENT">est</token>
+            <token gender="FEMININE" id="3" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="4" lemma="capitale" number="SINGULAR" pos="NOUN" tense="-">capitale</token>
+            <token gender="-" id="5" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="FEMININE" id="6" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="7" lemma="France" number="SINGULAR" pos="NOUN" tense="-">France</token>
+            <token gender="-" id="8" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="2">
+            <token gender="FEMININE" id="1" lemma="Le" number="SINGULAR" pos="DET" tense="-">L’</token>
+            <token gender="FEMININE" id="2" lemma="agglomération" number="SINGULAR" pos="NOUN" tense="-">agglomération</token>
+            <token gender="-" id="3" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="-" id="4" lemma="Paris" number="SINGULAR" pos="NOUN" tense="-">Paris</token>
+            <token gender="-" id="5" lemma="compter" number="SINGULAR" pos="VERB" tense="PRESENT">compte</token>
+            <token gender="-" id="6" lemma="plus" number="-" pos="ADV" tense="-">plus</token>
+            <token gender="-" id="7" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="-" id="8" lemma="10" number="-" pos="NUM" tense="-">10</token>
+            <token gender="-" id="9" lemma="millions" number="-" pos="NUM" tense="-">millions</token>
+            <token gender="-" id="10" lemma="de" number="-" pos="ADP" tense="-">d’</token>
+            <token gender="MASCULINE" id="11" lemma="habitant" number="PLURAL" pos="NOUN" tense="-">habitants</token>
+            <token gender="-" id="12" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="3">
+            <token gender="MASCULINE" id="1" lemma="Un" number="SINGULAR" pos="DET" tense="-">Un</token>
+            <token gender="MASCULINE" id="2" lemma="fleuve" number="SINGULAR" pos="NOUN" tense="-">fleuve</token>
+            <token gender="-" id="3" lemma="traverser" number="SINGULAR" pos="VERB" tense="PRESENT">traverse</token>
+            <token gender="FEMININE" id="4" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="5" lemma="capitale" number="SINGULAR" pos="NOUN" tense="-">capitale</token>
+            <token gender="FEMININE" id="6" lemma="français" number="SINGULAR" pos="ADJ" tense="-">française</token>
+            <token gender="-" id="7" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="-" id="8" lemma="c’" number="-" pos="PRON" tense="-">c’</token>
+            <token gender="-" id="9" lemma="être" number="SINGULAR" pos="VERB" tense="PRESENT">est</token>
+            <token gender="FEMININE" id="10" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="11" lemma="Seine" number="SINGULAR" pos="NOUN" tense="-">Seine</token>
+            <token gender="-" id="12" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="4">
+            <token gender="-" id="1" lemma="Dans" number="-" pos="ADP" tense="-">Dans</token>
+            <token gender="-" id="2" lemma="Paris" number="SINGULAR" pos="NOUN" tense="-">Paris</token>
+            <token gender="-" id="3" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="MASCULINE" id="4" lemma="il" number="SINGULAR" pos="PRON" tense="-">il</token>
+            <token gender="-" id="5" lemma="y" number="-" pos="PRON" tense="-">y</token>
+            <token gender="-" id="6" lemma="avoir" number="SINGULAR" pos="VERB" tense="PRESENT">a</token>
+            <token gender="-" id="7" lemma="deux" number="-" pos="NUM" tense="-">deux</token>
+            <token gender="FEMININE" id="8" lemma="île" number="PLURAL" pos="NOUN" tense="-">îles</token>
+            <token gender="-" id="9" lemma=":" number="-" pos="PUNCT" tense="-">:</token>
+            <token gender="FEMININE" id="10" lemma="le" number="SINGULAR" pos="DET" tense="-">l’</token>
+            <token gender="FEMININE" id="11" lemma="île" number="SINGULAR" pos="NOUN" tense="-">île</token>
+            <token gender="-" id="12" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="FEMININE" id="13" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="14" lemma="Cité" number="SINGULAR" pos="NOUN" tense="-">Cité</token>
+            <token gender="-" id="15" lemma="et" number="-" pos="CONJ" tense="-">et</token>
+            <token gender="FEMININE" id="16" lemma="le" number="SINGULAR" pos="DET" tense="-">l’</token>
+            <token gender="FEMININE" id="17" lemma="île" number="SINGULAR" pos="NOUN" tense="-">île</token>
+            <token gender="-" id="18" lemma="Saint" number="-" pos="X" tense="-">Saint</token>
+            <token gender="-" id="19" lemma="-" number="-" pos="PUNCT" tense="-">-</token>
+            <token gender="MASCULINE" id="20" lemma="Louis" number="SINGULAR" pos="NOUN" tense="-">Louis</token>
+            <token gender="-" id="21" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="5">
+            <token gender="-" id="1" lemma="Paris" number="SINGULAR" pos="NOUN" tense="-">Paris</token>
+            <token gender="-" id="2" lemma="compter" number="SINGULAR" pos="VERB" tense="PRESENT">compte</token>
+            <token gender="-" id="3" lemma="vingt" number="-" pos="NUM" tense="-">vingt</token>
+            <token gender="MASCULINE" id="4" lemma="arrondissement" number="PLURAL" pos="NOUN" tense="-">arrondissements</token>
+            <token gender="-" id="5" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="6">
+            <token gender="MASCULINE" id="1" lemma="Le" number="SINGULAR" pos="DET" tense="-">Le</token>
+            <token gender="MASCULINE" id="2" lemma="16e" number="SINGULAR" pos="ADJ" tense="-">16e</token>
+            <token gender="-" id="3" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="MASCULINE" id="4" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="5" lemma="7e" number="SINGULAR" pos="ADJ" tense="-">7e</token>
+            <token gender="-" id="6" lemma="et" number="-" pos="CONJ" tense="-">et</token>
+            <token gender="MASCULINE" id="7" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="8" lemma="8e" number="SINGULAR" pos="ADJ" tense="-">8e</token>
+            <token gender="MASCULINE" id="9" lemma="arrondissement" number="PLURAL" pos="NOUN" tense="-">arrondissements</token>
+            <token gender="-" id="10" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="-" id="11" lemma="Paris" number="SINGULAR" pos="NOUN" tense="-">Paris</token>
+            <token gender="-" id="12" lemma="être" number="PLURAL" pos="VERB" tense="PRESENT">sont</token>
+            <token gender="MASCULINE" id="13" lemma="le" number="PLURAL" pos="DET" tense="-">les</token>
+            <token gender="MASCULINE" id="14" lemma="quartier" number="PLURAL" pos="NOUN" tense="-">quartiers</token>
+            <token gender="MASCULINE" id="15" lemma="le" number="PLURAL" pos="DET" tense="-">les</token>
+            <token gender="-" id="16" lemma="plus" number="-" pos="ADV" tense="-">plus</token>
+            <token gender="FEMININE" id="17" lemma="riche" number="PLURAL" pos="ADJ" tense="-">riches</token>
+            <token gender="-" id="18" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="7">
+            <token gender="MASCULINE" id="1" lemma="Ils" number="PLURAL" pos="PRON" tense="-">Ils</token>
+            <token gender="-" id="2" lemma="être" number="PLURAL" pos="VERB" tense="PRESENT">sont</token>
+            <token gender="MASCULINE" id="3" lemma="situer" number="PLURAL" pos="VERB" tense="-">situés</token>
+            <token gender="-" id="4" lemma="dans" number="-" pos="ADP" tense="-">dans</token>
+            <token gender="MASCULINE" id="5" lemma="le" number="SINGULAR" pos="DET" tense="-">l’</token>
+            <token gender="MASCULINE" id="6" lemma="ouest" number="SINGULAR" pos="NOUN" tense="-">ouest</token>
+            <token gender="-" id="7" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="FEMININE" id="8" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="9" lemma="capitale" number="SINGULAR" pos="NOUN" tense="-">capitale</token>
+            <token gender="-" id="10" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="8">
+            <token gender="MASCULINE" id="1" lemma="Le" number="PLURAL" pos="DET" tense="-">Les</token>
+            <token gender="MASCULINE" id="2" lemma="quartier" number="PLURAL" pos="NOUN" tense="-">quartiers</token>
+            <token gender="MASCULINE" id="3" lemma="populaire" number="PLURAL" pos="ADJ" tense="-">populaires</token>
+            <token gender="-" id="4" lemma="comme" number="-" pos="ADP" tense="-">comme</token>
+            <token gender="MASCULINE" id="5" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="6" lemma="19e" number="SINGULAR" pos="ADJ" tense="-">19e</token>
+            <token gender="-" id="7" lemma="et" number="-" pos="CONJ" tense="-">et</token>
+            <token gender="MASCULINE" id="8" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="9" lemma="20e" number="SINGULAR" pos="ADJ" tense="-">20e</token>
+            <token gender="-" id="10" lemma="être" number="PLURAL" pos="VERB" tense="PRESENT">sont</token>
+            <token gender="MASCULINE" id="11" lemma="au" number="SINGULAR" pos="ADP" tense="-">au</token>
+            <token gender="MASCULINE" id="12" lemma="nord" number="SINGULAR" pos="NOUN" tense="-">nord</token>
+            <token gender="-" id="13" lemma="-" number="-" pos="PUNCT" tense="-">-</token>
+            <token gender="-" id="14" lemma="est" number="-" pos="X" tense="-">est</token>
+            <token gender="-" id="15" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="FEMININE" id="16" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="17" lemma="ville" number="SINGULAR" pos="NOUN" tense="-">ville</token>
+            <token gender="-" id="18" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="9">
+            <token gender="MASCULINE" id="1" lemma="Le" number="PLURAL" pos="DET" tense="-">Les</token>
+            <token gender="MASCULINE" id="2" lemma="monument" number="PLURAL" pos="NOUN" tense="-">monuments</token>
+            <token gender="-" id="3" lemma=";" number="-" pos="PUNCT" tense="-">;</token>
+            <token gender="MASCULINE" id="4" lemma="célèbre" number="PLURAL" pos="ADJ" tense="-">célèbres</token>
+            <token gender="-" id="5" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="MASCULINE" id="6" lemma="le" number="PLURAL" pos="DET" tense="-">les</token>
+            <token gender="MASCULINE" id="7" lemma="ministère" number="PLURAL" pos="NOUN" tense="-">ministères</token>
+            <token gender="-" id="8" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="MASCULINE" id="9" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="10" lemma="palais" number="SINGULAR" pos="NOUN" tense="-">palais</token>
+            <token gender="-" id="11" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="FEMININE" id="12" lemma="le" number="SINGULAR" pos="DET" tense="-">l’</token>
+            <token gender="FEMININE" id="13" lemma="Élysée" number="SINGULAR" pos="NOUN" tense="-">Élysée</token>
+            <token gender="-" id="14" lemma="être" number="PLURAL" pos="VERB" tense="PRESENT">sont</token>
+            <token gender="MASCULINE" id="15" lemma="situer" number="PLURAL" pos="VERB" tense="-">situés</token>
+            <token gender="-" id="16" lemma="dans" number="-" pos="ADP" tense="-">dans</token>
+            <token gender="MASCULINE" id="17" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="18" lemma="centre" number="SINGULAR" pos="NOUN" tense="-">centre</token>
+            <token gender="-" id="19" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="-" id="20" lemma="Paris" number="SINGULAR" pos="NOUN" tense="-">Paris</token>
+            <token gender="-" id="21" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="10">
+            <token gender="-" id="1" lemma="Paris" number="SINGULAR" pos="NOUN" tense="-">Paris</token>
+            <token gender="-" id="2" lemma="être" number="SINGULAR" pos="VERB" tense="PRESENT">est</token>
+            <token gender="FEMININE" id="3" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="4" lemma="capitale" number="SINGULAR" pos="NOUN" tense="-">capitale</token>
+            <token gender="FEMININE" id="5" lemma="économique" number="SINGULAR" pos="ADJ" tense="-">économique</token>
+            <token gender="-" id="6" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="FEMININE" id="7" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="8" lemma="capitale" number="SINGULAR" pos="NOUN" tense="-">capitale</token>
+            <token gender="FEMININE" id="9" lemma="politique" number="SINGULAR" pos="ADJ" tense="-">politique</token>
+            <token gender="-" id="10" lemma="et" number="-" pos="CONJ" tense="-">et</token>
+            <token gender="FEMININE" id="11" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="12" lemma="capitale" number="SINGULAR" pos="NOUN" tense="-">capitale</token>
+            <token gender="FEMININE" id="13" lemma="culturel" number="SINGULAR" pos="ADJ" tense="-">culturelle</token>
+            <token gender="-" id="14" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="FEMININE" id="15" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="16" lemma="France" number="SINGULAR" pos="NOUN" tense="-">France</token>
+            <token gender="-" id="17" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="11">
+            <token gender="FEMININE" id="1" lemma="Le" number="SINGULAR" pos="DET" tense="-">La</token>
+            <token gender="FEMININE" id="2" lemma="ville" number="SINGULAR" pos="NOUN" tense="-">ville</token>
+            <token gender="-" id="3" lemma="compter" number="SINGULAR" pos="VERB" tense="PRESENT">compte</token>
+            <token gender="-" id="4" lemma="beaucoup" number="-" pos="ADV" tense="-">beaucoup</token>
+            <token gender="-" id="5" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="MASCULINE" id="6" lemma="lieux" number="PLURAL" pos="NOUN" tense="-">lieux</token>
+            <token gender="MASCULINE" id="7" lemma="célèbre" number="PLURAL" pos="ADJ" tense="-">célèbres</token>
+            <token gender="-" id="8" lemma="dans" number="-" pos="ADP" tense="-">dans</token>
+            <token gender="MASCULINE" id="9" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="10" lemma="monde" number="SINGULAR" pos="NOUN" tense="-">monde</token>
+            <token gender="MASCULINE" id="11" lemma="entier" number="SINGULAR" pos="ADJ" tense="-">entier</token>
+            <token gender="-" id="12" lemma="comme" number="-" pos="ADP" tense="-">comme</token>
+            <token gender="-" id="13" lemma="«" number="-" pos="PUNCT" tense="-">«</token>
+            <token gender="FEMININE" id="14" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="15" lemma="tour" number="SINGULAR" pos="NOUN" tense="-">tour</token>
+            <token gender="MASCULINE" id="16" lemma="Eiffel" number="SINGULAR" pos="NOUN" tense="-">Eiffel</token>
+            <token gender="-" id="17" lemma="»" number="-" pos="PUNCT" tense="-">»</token>
+            <token gender="-" id="18" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="-" id="19" lemma="«" number="-" pos="PUNCT" tense="-">«</token>
+            <token gender="MASCULINE" id="20" lemma="le" number="SINGULAR" pos="DET" tense="-">l’</token>
+            <token gender="MASCULINE" id="21" lemma="Arc" number="SINGULAR" pos="NOUN" tense="-">Arc</token>
+            <token gender="-" id="22" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="-" id="23" lemma="Triomphe" number="SINGULAR" pos="NOUN" tense="-">Triomphe</token>
+            <token gender="-" id="24" lemma="»" number="-" pos="PUNCT" tense="-">»</token>
+            <token gender="-" id="25" lemma="et" number="-" pos="CONJ" tense="-">et</token>
+            <token gender="-" id="26" lemma="«" number="-" pos="PUNCT" tense="-">«</token>
+            <token gender="-" id="27" lemma="Notre" number="-" pos="X" tense="-">Notre</token>
+            <token gender="-" id="28" lemma="-" number="-" pos="PUNCT" tense="-">-</token>
+            <token gender="FEMININE" id="29" lemma="Dame" number="SINGULAR" pos="NOUN" tense="-">Dame</token>
+            <token gender="-" id="30" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="-" id="31" lemma="Paris" number="SINGULAR" pos="NOUN" tense="-">Paris</token>
+            <token gender="-" id="32" lemma="»" number="-" pos="PUNCT" tense="-">»</token>
+            <token gender="-" id="33" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="12">
+            <token gender="MASCULINE" id="1" lemma="Le" number="PLURAL" pos="DET" tense="-">Les</token>
+            <token gender="MASCULINE" id="2" lemma="musée" number="PLURAL" pos="NOUN" tense="-">musées</token>
+            <token gender="MASCULINE" id="3" lemma="parisien" number="PLURAL" pos="ADJ" tense="-">parisiens</token>
+            <token gender="-" id="4" lemma="aussi" number="-" pos="ADV" tense="-">aussi</token>
+            <token gender="-" id="5" lemma="être" number="PLURAL" pos="VERB" tense="PRESENT">sont</token>
+            <token gender="-" id="6" lemma="très" number="-" pos="ADV" tense="-">très</token>
+            <token gender="MASCULINE" id="7" lemma="connu" number="PLURAL" pos="ADJ" tense="-">connus</token>
+            <token gender="-" id="8" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="13">
+            <token gender="MASCULINE" id="1" lemma="Il" number="SINGULAR" pos="PRON" tense="-">Il</token>
+            <token gender="-" id="2" lemma="y" number="-" pos="PRON" tense="-">y</token>
+            <token gender="-" id="3" lemma="avoir" number="SINGULAR" pos="VERB" tense="PRESENT">a</token>
+            <token gender="-" id="4" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="-" id="5" lemma="par" number="-" pos="ADP" tense="-">par</token>
+            <token gender="MASCULINE" id="6" lemma="exemple" number="SINGULAR" pos="NOUN" tense="-">exemple</token>
+            <token gender="-" id="7" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="MASCULINE" id="8" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="9" lemma="musée" number="SINGULAR" pos="NOUN" tense="-">musée</token>
+            <token gender="MASCULINE" id="10" lemma="du" number="SINGULAR" pos="ADP" tense="-">du</token>
+            <token gender="MASCULINE" id="11" lemma="Louvre" number="SINGULAR" pos="NOUN" tense="-">Louvre</token>
+            <token gender="-" id="12" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="14">
+            <token gender="-" id="1" lemma="C’" number="-" pos="PRON" tense="-">C’</token>
+            <token gender="-" id="2" lemma="être" number="SINGULAR" pos="VERB" tense="PRESENT">est</token>
+            <token gender="MASCULINE" id="3" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="-" id="4" lemma="plus" number="-" pos="ADV" tense="-">plus</token>
+            <token gender="MASCULINE" id="5" lemma="grand" number="SINGULAR" pos="ADJ" tense="-">grand</token>
+            <token gender="MASCULINE" id="6" lemma="musée" number="SINGULAR" pos="NOUN" tense="-">musée</token>
+            <token gender="-" id="7" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="FEMININE" id="8" lemma="France" number="SINGULAR" pos="NOUN" tense="-">France</token>
+            <token gender="-" id="9" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="15">
+            <token gender="-" id="1" lemma="On" number="SINGULAR" pos="PRON" tense="-">On</token>
+            <token gender="-" id="2" lemma="pouvoir" number="SINGULAR" pos="VERB" tense="PRESENT">peut</token>
+            <token gender="-" id="3" lemma="voir" number="-" pos="VERB" tense="-">voir</token>
+            <token gender="-" id="4" lemma="dans" number="-" pos="ADP" tense="-">dans</token>
+            <token gender="MASCULINE" id="5" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="6" lemma="musée" number="SINGULAR" pos="NOUN" tense="-">musée</token>
+            <token gender="MASCULINE" id="7" lemma="du" number="SINGULAR" pos="ADP" tense="-">du</token>
+            <token gender="MASCULINE" id="8" lemma="Louvre" number="SINGULAR" pos="NOUN" tense="-">Louvre</token>
+            <token gender="MASCULINE" id="9" lemma="des" number="PLURAL" pos="ADP" tense="-">des</token>
+            <token gender="MASCULINE" id="10" lemma="tableau" number="PLURAL" pos="NOUN" tense="-">tableaux</token>
+            <token gender="MASCULINE" id="11" lemma="magnifique" number="PLURAL" pos="ADJ" tense="-">magnifiques</token>
+            <token gender="-" id="12" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="16">
+            <token gender="MASCULINE" id="1" lemma="Le" number="SINGULAR" pos="DET" tense="-">Le</token>
+            <token gender="-" id="2" lemma="plus" number="-" pos="ADV" tense="-">plus</token>
+            <token gender="MASCULINE" id="3" lemma="célèbre" number="SINGULAR" pos="ADJ" tense="-">célèbre</token>
+            <token gender="-" id="4" lemma="être" number="SINGULAR" pos="VERB" tense="PRESENT">est</token>
+            <token gender="-" id="5" lemma="certainement" number="-" pos="ADV" tense="-">certainement</token>
+            <token gender="-" id="6" lemma="«" number="-" pos="PUNCT" tense="-">«</token>
+            <token gender="FEMININE" id="7" lemma="Le" number="SINGULAR" pos="DET" tense="-">La</token>
+            <token gender="FEMININE" id="8" lemma="Joconde" number="SINGULAR" pos="NOUN" tense="-">Joconde</token>
+            <token gender="-" id="9" lemma="»" number="-" pos="PUNCT" tense="-">»</token>
+            <token gender="-" id="10" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="MASCULINE" id="11" lemma="Léonard" number="SINGULAR" pos="NOUN" tense="-">Léonard</token>
+            <token gender="-" id="12" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="-" id="13" lemma="Vinci" number="SINGULAR" pos="NOUN" tense="-">Vinci</token>
+            <token gender="-" id="14" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="17">
+            <token gender="-" id="1" lemma="Paris" number="SINGULAR" pos="NOUN" tense="-">Paris</token>
+            <token gender="-" id="2" lemma="être" number="SINGULAR" pos="VERB" tense="PRESENT">est</token>
+            <token gender="FEMININE" id="3" lemma="un" number="SINGULAR" pos="DET" tense="-">une</token>
+            <token gender="FEMININE" id="4" lemma="ville" number="SINGULAR" pos="NOUN" tense="-">ville</token>
+            <token gender="-" id="5" lemma="très" number="-" pos="ADV" tense="-">très</token>
+            <token gender="MASCULINE" id="6" lemma="touristique" number="SINGULAR" pos="ADJ" tense="-">touristique</token>
+            <token gender="-" id="7" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="18">
+            <token gender="FEMININE" id="1" lemma="Chaque" number="SINGULAR" pos="ADJ" tense="-">Chaque</token>
+            <token gender="FEMININE" id="2" lemma="année" number="SINGULAR" pos="NOUN" tense="-">année</token>
+            <token gender="-" id="3" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="MASCULINE" id="4" lemma="un" number="PLURAL" pos="DET" tense="-">des</token>
+            <token gender="-" id="5" lemma="millions" number="-" pos="NOUN" tense="-">millions</token>
+            <token gender="-" id="6" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="MASCULINE" id="7" lemma="touriste" number="PLURAL" pos="NOUN" tense="-">touristes</token>
+            <token gender="MASCULINE" id="8" lemma="du" number="SINGULAR" pos="ADP" tense="-">du</token>
+            <token gender="MASCULINE" id="9" lemma="monde" number="SINGULAR" pos="NOUN" tense="-">monde</token>
+            <token gender="MASCULINE" id="10" lemma="entier" number="SINGULAR" pos="ADJ" tense="-">entier</token>
+            <token gender="-" id="11" lemma="marcher" number="PLURAL" pos="VERB" tense="PRESENT">marchent</token>
+            <token gender="-" id="12" lemma="sur" number="-" pos="ADP" tense="-">sur</token>
+            <token gender="MASCULINE" id="13" lemma="le" number="PLURAL" pos="DET" tense="-">les</token>
+            <token gender="MASCULINE" id="14" lemma="Champs" number="PLURAL" pos="NOUN" tense="-">Champs</token>
+            <token gender="-" id="15" lemma="-" number="-" pos="PUNCT" tense="-">-</token>
+            <token gender="-" id="16" lemma="Élysées" number="-" pos="X" tense="-">Élysées</token>
+            <token gender="-" id="17" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="19">
+            <token gender="MASCULINE" id="1" lemma="Ils" number="PLURAL" pos="PRON" tense="-">Ils</token>
+            <token gender="-" id="2" lemma="séjourner" number="PLURAL" pos="VERB" tense="PRESENT">séjournent</token>
+            <token gender="-" id="3" lemma="à" number="-" pos="ADP" tense="-">à</token>
+            <token gender="MASCULINE" id="4" lemma="le" number="SINGULAR" pos="DET" tense="-">l’</token>
+            <token gender="MASCULINE" id="5" lemma="hôtel" number="SINGULAR" pos="NOUN" tense="-">hôtel</token>
+            <token gender="-" id="6" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="-" id="7" lemma="louer" number="PLURAL" pos="VERB" tense="PRESENT">louent</token>
+            <token gender="FEMININE" id="8" lemma="un" number="PLURAL" pos="DET" tense="-">des</token>
+            <token gender="FEMININE" id="9" lemma="chambre" number="PLURAL" pos="NOUN" tense="-">chambres</token>
+            <token gender="-" id="10" lemma="de" number="-" pos="ADP" tense="-">d’</token>
+            <token gender="MASCULINE" id="11" lemma="hôte" number="PLURAL" pos="NOUN" tense="-">hôtes</token>
+            <token gender="-" id="12" lemma="ou" number="-" pos="CONJ" tense="-">ou</token>
+            <token gender="MASCULINE" id="13" lemma="un" number="PLURAL" pos="DET" tense="-">des</token>
+            <token gender="MASCULINE" id="14" lemma="appartement" number="PLURAL" pos="NOUN" tense="-">appartements</token>
+            <token gender="-" id="15" lemma="pour" number="-" pos="ADP" tense="-">pour</token>
+            <token gender="FEMININE" id="16" lemma="un" number="SINGULAR" pos="DET" tense="-">une</token>
+            <token gender="FEMININE" id="17" lemma="semaine" number="SINGULAR" pos="NOUN" tense="-">semaine</token>
+            <token gender="-" id="18" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="20">
+            <token gender="-" id="1" lemma="Dans" number="-" pos="ADP" tense="-">Dans</token>
+            <token gender="MASCULINE" id="2" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="3" lemma="curieux" number="SINGULAR" pos="ADJ" tense="-">curieux</token>
+            <token gender="MASCULINE" id="4" lemma="exemple" number="SINGULAR" pos="NOUN" tense="-">exemple</token>
+            <token gender="MASCULINE" id="5" lemma="suivant" number="SINGULAR" pos="ADJ" tense="-">suivant</token>
+            <token gender="-" id="6" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="MASCULINE" id="7" lemma="Vladimir" number="SINGULAR" pos="NOUN" tense="-">Vladimir</token>
+            <token gender="MASCULINE" id="8" lemma="Nabokov" number="SINGULAR" pos="NOUN" tense="-">Nabokov</token>
+            <token gender="-" id="9" lemma="suggérer" number="SINGULAR" pos="VERB" tense="PRESENT">suggère</token>
+            <token gender="-" id="10" lemma="que" number="-" pos="ADP" tense="-">que</token>
+            <token gender="MASCULINE" id="11" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="12" lemma="mot" number="SINGULAR" pos="NOUN" tense="-">mot</token>
+            <token gender="MASCULINE" id="13" lemma="réalisme" number="SINGULAR" pos="NOUN" tense="-">réalisme</token>
+            <token gender="-" id="14" lemma="n’" number="-" pos="ADV" tense="-">n’</token>
+            <token gender="-" id="15" lemma="avoir" number="SINGULAR" pos="VERB" tense="PRESENT">a</token>
+            <token gender="-" id="16" lemma="pas" number="-" pos="ADV" tense="-">pas</token>
+            <token gender="-" id="17" lemma="un" number="-" pos="DET" tense="-">de</token>
+            <token gender="FEMININE" id="18" lemma="signification" number="SINGULAR" pos="NOUN" tense="-">signification</token>
+            <token gender="FEMININE" id="19" lemma="littéral" number="SINGULAR" pos="ADJ" tense="-">littérale</token>
+            <token gender="-" id="20" lemma="ou" number="-" pos="CONJ" tense="-">ou</token>
+            <token gender="FEMININE" id="21" lemma="habituel" number="SINGULAR" pos="ADJ" tense="-">habituelle</token>
+            <token gender="FEMININE" id="22" lemma="définir" number="SINGULAR" pos="VERB" tense="-">définie</token>
+            <token gender="-" id="23" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="-" id="24" lemma="mais" number="-" pos="CONJ" tense="-">mais</token>
+            <token gender="-" id="25" lemma="qu’" number="-" pos="ADP" tense="-">qu’</token>
+            <token gender="FEMININE" id="26" lemma="un" number="SINGULAR" pos="DET" tense="-">une</token>
+            <token gender="FEMININE" id="27" lemma="signification" number="SINGULAR" pos="NOUN" tense="-">signification</token>
+            <token gender="FEMININE" id="28" lemma="subjectif" number="SINGULAR" pos="ADJ" tense="-">subjective</token>
+            <token gender="-" id="29" lemma="et" number="-" pos="CONJ" tense="-">et</token>
+            <token gender="FEMININE" id="30" lemma="relative" number="SINGULAR" pos="ADJ" tense="-">relative</token>
+            <token gender="MASCULINE" id="31" lemma="au" number="SINGULAR" pos="ADP" tense="-">au</token>
+            <token gender="MASCULINE" id="32" lemma="contexte" number="SINGULAR" pos="NOUN" tense="-">contexte</token>
+            <token gender="-" id="33" lemma="dans" number="-" pos="ADP" tense="-">dans</token>
+            <token gender="MASCULINE" id="34" lemma="lequel" number="SINGULAR" pos="PRON" tense="-">lequel</token>
+            <token gender="MASCULINE" id="35" lemma="il" number="SINGULAR" pos="PRON" tense="-">il</token>
+            <token gender="-" id="36" lemma="être" number="SINGULAR" pos="VERB" tense="PRESENT">est</token>
+            <token gender="MASCULINE" id="37" lemma="employer" number="SINGULAR" pos="VERB" tense="-">employé</token>
+            <token gender="-" id="38" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="-" id="39" lemma="que" number="-" pos="ADP" tense="-">que</token>
+            <token gender="MASCULINE" id="40" lemma="chaque" number="SINGULAR" pos="ADJ" tense="-">chaque</token>
+            <token gender="MASCULINE" id="41" lemma="lecteur" number="SINGULAR" pos="NOUN" tense="-">lecteur</token>
+            <token gender="-" id="42" lemma="déterminer" number="SINGULAR" pos="VERB" tense="FUTURE">déterminera</token>
+            <token gender="-" id="43" lemma="à" number="-" pos="ADP" tense="-">à</token>
+            <token gender="FEMININE" id="44" lemma="sa" number="SINGULAR" pos="PRON" tense="-">sa</token>
+            <token gender="FEMININE" id="45" lemma="manière" number="SINGULAR" pos="NOUN" tense="-">manière</token>
+            <token gender="-" id="46" lemma=";" number="-" pos="PUNCT" tense="-">;</token>
+            <token gender="-" id="47" lemma="on" number="SINGULAR" pos="PRON" tense="-">on</token>
+            <token gender="-" id="48" lemma="pouvoir" number="SINGULAR" pos="VERB" tense="PRESENT">peut</token>
+            <token gender="-" id="49" lemma="aussi" number="-" pos="ADV" tense="-">aussi</token>
+            <token gender="-" id="50" lemma="voir" number="-" pos="VERB" tense="-">voir</token>
+            <token gender="-" id="51" lemma="dans" number="-" pos="ADP" tense="-">dans</token>
+            <token gender="MASCULINE" id="52" lemma="le" number="PLURAL" pos="DET" tense="-">les</token>
+            <token gender="MASCULINE" id="53" lemma="guillemet" number="PLURAL" pos="NOUN" tense="-">guillemets</token>
+            <token gender="MASCULINE" id="54" lemma="qui" number="PLURAL" pos="PRON" tense="-">qui</token>
+            <token gender="-" id="55" lemma="entourer" number="PLURAL" pos="VERB" tense="PRESENT">entourent</token>
+            <token gender="MASCULINE" id="56" lemma="le" number="SINGULAR" pos="DET" tense="-">le</token>
+            <token gender="MASCULINE" id="57" lemma="mot" number="SINGULAR" pos="NOUN" tense="-">mot</token>
+            <token gender="MASCULINE" id="58" lemma="réalisme" number="SINGULAR" pos="NOUN" tense="-">réalisme</token>
+            <token gender="FEMININE" id="59" lemma="un" number="SINGULAR" pos="DET" tense="-">une</token>
+            <token gender="FEMININE" id="60" lemma="référence" number="SINGULAR" pos="NOUN" tense="-">référence</token>
+            <token gender="MASCULINE" id="61" lemma="au" number="SINGULAR" pos="ADP" tense="-">au</token>
+            <token gender="MASCULINE" id="62" lemma="coconstructivisme" number="SINGULAR" pos="NOUN" tense="-">coconstructivisme</token>
+            <token gender="-" id="63" lemma="de" number="-" pos="ADP" tense="-">d'</token>
+            <token gender="MASCULINE" id="64" lemma="Edgar" number="SINGULAR" pos="NOUN" tense="-">Edgar</token>
+            <token gender="MASCULINE" id="65" lemma="Morin" number="SINGULAR" pos="NOUN" tense="-">Morin</token>
+            <token gender="-" id="66" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="21">
+            <token gender="MASCULINE" id="1" lemma="Sigmund" number="SINGULAR" pos="NOUN" tense="-">Sigmund</token>
+            <token gender="MASCULINE" id="2" lemma="freud" number="SINGULAR" pos="NOUN" tense="-">freud</token>
+            <token gender="-" id="3" lemma="avoir" number="SINGULAR" pos="VERB" tense="PRESENT">a</token>
+            <token gender="MASCULINE" id="4" lemma="vouloir" number="SINGULAR" pos="VERB" tense="-">voulu</token>
+            <token gender="-" id="5" lemma="bâtir" number="-" pos="VERB" tense="-">bâtir</token>
+            <token gender="FEMININE" id="6" lemma="un" number="SINGULAR" pos="DET" tense="-">une</token>
+            <token gender="-" id="7" lemma="«" number="-" pos="PUNCT" tense="-">«</token>
+            <token gender="FEMININE" id="8" lemma="science" number="SINGULAR" pos="NOUN" tense="-">science</token>
+            <token gender="-" id="9" lemma="»" number="-" pos="PUNCT" tense="-">»</token>
+            <token gender="-" id="10" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="-" id="11" lemma="et" number="-" pos="CONJ" tense="-">et</token>
+            <token gender="MASCULINE" id="12" lemma="il" number="SINGULAR" pos="PRON" tense="-">il</token>
+            <token gender="-" id="13" lemma="n’" number="-" pos="ADV" tense="-">n’</token>
+            <token gender="-" id="14" lemma="y" number="-" pos="PRON" tense="-">y</token>
+            <token gender="-" id="15" lemma="être" number="SINGULAR" pos="VERB" tense="PRESENT">est</token>
+            <token gender="-" id="16" lemma="pas" number="-" pos="ADV" tense="-">pas</token>
+            <token gender="MASCULINE" id="17" lemma="parvenir" number="SINGULAR" pos="VERB" tense="-">parvenu</token>
+            <token gender="-" id="18" lemma=";" number="-" pos="PUNCT" tense="-">;</token>
+            <token gender="MASCULINE" id="19" lemma="il" number="SINGULAR" pos="PRON" tense="-">il</token>
+            <token gender="-" id="20" lemma="avoir" number="SINGULAR" pos="VERB" tense="PRESENT">a</token>
+            <token gender="MASCULINE" id="21" lemma="vouloir" number="SINGULAR" pos="VERB" tense="-">voulu</token>
+            <token gender="-" id="22" lemma="«" number="-" pos="PUNCT" tense="-">«</token>
+            <token gender="-" id="23" lemma="prouver" number="-" pos="VERB" tense="-">prouver</token>
+            <token gender="-" id="24" lemma="»" number="-" pos="PUNCT" tense="-">»</token>
+            <token gender="-" id="25" lemma="que" number="-" pos="ADP" tense="-">que</token>
+            <token gender="MASCULINE" id="26" lemma="le" number="SINGULAR" pos="DET" tense="-">l’</token>
+            <token gender="MASCULINE" id="27" lemma="inconscient" number="SINGULAR" pos="NOUN" tense="-">inconscient</token>
+            <token gender="-" id="28" lemma="avoir" number="SINGULAR" pos="VERB" tense="-">avait</token>
+            <token gender="FEMININE" id="29" lemma="ses" number="PLURAL" pos="PRON" tense="-">ses</token>
+            <token gender="FEMININE" id="30" lemma="lois" number="PLURAL" pos="NOUN" tense="-">lois</token>
+            <token gender="-" id="31" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="FEMININE" id="32" lemma="sa" number="SINGULAR" pos="PRON" tense="-">sa</token>
+            <token gender="FEMININE" id="33" lemma="logique" number="SINGULAR" pos="NOUN" tense="-">logique</token>
+            <token gender="FEMININE" id="34" lemma="intrinsèque" number="SINGULAR" pos="ADJ" tense="-">intrinsèque</token>
+            <token gender="-" id="35" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="MASCULINE" id="36" lemma="ses" number="PLURAL" pos="PRON" tense="-">ses</token>
+            <token gender="MASCULINE" id="37" lemma="protocole" number="PLURAL" pos="NOUN" tense="-">protocoles</token>
+            <token gender="MASCULINE" id="38" lemma="expérimental" number="PLURAL" pos="ADJ" tense="-">expérimentaux</token>
+            <token gender="-" id="39" lemma="—" number="-" pos="PUNCT" tense="-">—</token>
+            <token gender="-" id="40" lemma="mais" number="-" pos="CONJ" tense="-">mais</token>
+            <token gender="-" id="41" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="-" id="42" lemma="hélas" number="SINGULAR" pos="ADV" tense="-">hélas</token>
+            <token gender="-" id="43" lemma="," number="-" pos="PUNCT" tense="-">,</token>
+            <token gender="MASCULINE" id="44" lemma="il" number="SINGULAR" pos="PRON" tense="-">il</token>
+            <token gender="-" id="45" lemma="avoir" number="SINGULAR" pos="VERB" tense="PRESENT">a</token>
+            <token gender="MASCULINE" id="46" lemma="un" number="SINGULAR" pos="DET" tense="-">un</token>
+            <token gender="-" id="47" lemma="peu" number="-" pos="ADV" tense="-">peu</token>
+            <token gender="MASCULINE" id="48" lemma="mentir" number="SINGULAR" pos="VERB" tense="-">menti</token>
+            <token gender="-" id="49" lemma="pour" number="-" pos="ADP" tense="-">pour</token>
+            <token gender="MASCULINE" id="50" lemma="se" number="SINGULAR" pos="PRON" tense="-">se</token>
+            <token gender="-" id="51" lemma="parer" number="-" pos="VERB" tense="-">parer</token>
+            <token gender="MASCULINE" id="52" lemma="un" number="PLURAL" pos="DET" tense="-">des</token>
+            <token gender="MASCULINE" id="53" lemma="emblème" number="PLURAL" pos="NOUN" tense="-">emblèmes</token>
+            <token gender="-" id="54" lemma="de" number="-" pos="ADP" tense="-">de</token>
+            <token gender="FEMININE" id="55" lemma="le" number="SINGULAR" pos="DET" tense="-">la</token>
+            <token gender="FEMININE" id="56" lemma="scientificité" number="SINGULAR" pos="NOUN" tense="-">scientificité</token>
+            <token gender="-" id="57" lemma="." number="-" pos="PUNCT" tense="-">.</token>
+        </sentence>
+        <sentence id="22">
+            <token gender="-" id="1" lemma="&quot;" number="-" pos="PUNCT" tense="-">"</token>
+            <token gender="-" id="2" lemma="Qu'" number="-" pos="PRON" tense="-">Qu'</token>
+            <token gender="-" id="3" lemma="être" number="SINGULAR" pos="VERB" tense="PRESENT">est</token>
+            <token gender="-" id="4" lemma="-" number="-" pos="PUNCT" tense="-">-</token>
+            <token gender="-" id="5" lemma="ce" number="-" pos="PRON" tense="-">ce</token>
+            <token gender="-" id="6" lemma="qu'" number="-" pos="ADP" tense="-">qu'</token>
+            <token gender="MASCULINE" id="7" lemma="il" number="SINGULAR" pos="PRON" tense="-">il</token>
+            <token gender="-" id="8" lemma="y" number="-" pos="PRON" tense="-">y</token>
+            <token gender="-" id="9" lemma="avoir" number="SINGULAR" pos="VERB" tense="PRESENT">a</token>
+            <token gender="-" id="10" lemma="encore" number="-" pos="ADV" tense="-">encore</token>
+            <token gender="-" id="11" lemma="?" number="-" pos="PUNCT" tense="-">?</token>
+            <token gender="-" id="12" lemma="&quot;" number="-" pos="PUNCT" tense="-">"</token>
+        </sentence>
+    </paragraph>
+</text>

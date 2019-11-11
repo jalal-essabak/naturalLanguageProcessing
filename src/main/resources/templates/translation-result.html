@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head th:replace="fragments/header.html :: header"></head>
+<body>
+	<div id="app">
+		<nav th:replace="fragments/navbar.html :: navbar"></nav>
+		<section class="py-5">
+			<div class="container col-8">
+				<div class="row">
+					<div class="col align-self-center">
+						<div>
+							<h3 class="font-weight-light">Texte d'origine (en Francais)</h3>
+							<br>
+							<textarea th:text="${originalText}" class="form-control"
+								id="text" name="text" rows="7" />
+								
+							<br>
+							<h3 class="font-weight-light">Texte traduit (en Anglais)</h3>
+							<br>
+							<textarea th:text="${translateResult}" class="form-control"
+								id="text" name="text" rows="7" />
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+</body>
+</html>
+
